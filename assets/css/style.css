@@ -138,7 +138,7 @@ h6 {
 }
 
 #topbar .social-links a {
-  color: #111a38;
+  color: #007FFF;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -153,7 +153,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #111a38;
+  background: #007FFF;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
