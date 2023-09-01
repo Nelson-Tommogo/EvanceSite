@@ -653,7 +653,7 @@ section {
 --------------------------------------------------------------*/
 .featured-services {
   padding: 20px 0;
-  background-color: #111a38;
+  background-color: #007FFF;
 }
 
 .featured-services .icon-box {
@@ -661,7 +661,7 @@ section {
 }
 
 .featured-services .icon-box-bg {
-  background-image: linear-gradient(0deg, #111a38 0%, #1e2746 50%, #111a38 100%);
+  background-image: linear-gradient(0deg, #007FFF 0%, #007FFF 50%, #007FFF 100%);
 }
 
 .featured-services .icon {
